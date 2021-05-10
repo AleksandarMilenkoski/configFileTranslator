@@ -1,0 +1,1 @@
+A script for translating config files form russian to english using Yandex Translate.
